@@ -23,5 +23,6 @@ public class Eletronico extends Produtos {
         System.out.println("Estoque: " + getEstoque());
         System.out.println("Garantia: " + GarantiaMes + " meses");
         System.out.println();
+        System.out.println("honorario");
     }
 }
